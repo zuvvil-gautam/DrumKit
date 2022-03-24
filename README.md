@@ -11,6 +11,7 @@ Keyboard presses are:
 <h1>K</h1>
 <h1>L</h1>
 
+<p>The functionality of playing sounds is done by DOM (Document Object Model) using Event Listeners.</p>
 
 
 
