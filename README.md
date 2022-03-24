@@ -12,7 +12,7 @@ Keyboard presses are:
 <h1>L</h1>
 
 <p>The functionality of playing sounds is done by DOM (Document Object Model) using Event Listeners.</p>
-
+<p>In this event listeners are added to buttons and keystrokes so that when user taps on the particular key the sound of particular drum will be played.<\p>
 
 
 <p>Here we have used higher order functions in Javascript that are functions that accept other functions as parameters and or return a function.</p>
